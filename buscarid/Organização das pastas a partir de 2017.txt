@@ -1,0 +1,13 @@
+Organização das pastas a partir de 2017
+buscarid (todas pastas)
+|_ano (formato AAAA)
+| |_mês (formato MM)
+|   |_nome-da-campanha (separado por hífen)
+|     |_dia.html (dia formato DD)
+|
+|_imagens
+  |_ano (formato AAAA)
+    |_mês (formato MM)
+      |_nome-da-campanha (separado por hífen)
+        |_dia (dia formato DD)
+          |_número (formato XX ordenado de acordo com o email)
